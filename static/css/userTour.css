@@ -1,0 +1,35 @@
+.searchbar__icon{
+
+}
+.searchbar__input{
+
+}
+.searchbar__button{
+
+}
+.search__suggest{
+    padding-left: 0;
+    margin: 0;
+    display:flex;
+    list-style-type: none;
+    margin-top:44px;
+    position: absolute;
+    left: 50%;
+    transform:translateX(-50%);
+}
+.search__suggest-item{
+
+}
+.search__suggest-link{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    color: #000;
+    background-color: #f1e8ce;
+    border-radius:10px;
+    margin: 0 8px;
+}
+.search__suggest-link:hover{
+    text-decoration: none;
+    color: #000;
+}

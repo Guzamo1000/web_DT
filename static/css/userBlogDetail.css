@@ -1,0 +1,19 @@
+.para__content{
+    margin: 36px 0;
+}
+.para__title{
+    font-weight: 600;
+}
+.para__info{
+    display:flex;
+}
+.para__info-category{
+    font-weight: 600;
+    margin-right: 8px;
+    color: #040c66;
+}
+.para__info-date{
+    font-size: 1.2rem;
+    position: relative;
+    top: 2px;
+}
